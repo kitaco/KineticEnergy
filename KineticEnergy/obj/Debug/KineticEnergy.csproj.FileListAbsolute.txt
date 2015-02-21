@@ -1,0 +1,9 @@
+C:\Users\Ki\Google Drive\Programming Fundamentals\KineticEnergy\KineticEnergy\bin\Debug\KineticEnergy.exe.config
+C:\Users\Ki\Google Drive\Programming Fundamentals\KineticEnergy\KineticEnergy\obj\Debug\KineticEnergy.csprojResolveAssemblyReference.cache
+C:\Users\Ki\Google Drive\Programming Fundamentals\KineticEnergy\KineticEnergy\obj\Debug\KineticEnergy.Form1.resources
+C:\Users\Ki\Google Drive\Programming Fundamentals\KineticEnergy\KineticEnergy\obj\Debug\KineticEnergy.Properties.Resources.resources
+C:\Users\Ki\Google Drive\Programming Fundamentals\KineticEnergy\KineticEnergy\obj\Debug\KineticEnergy.csproj.GenerateResource.Cache
+C:\Users\Ki\Google Drive\Programming Fundamentals\KineticEnergy\KineticEnergy\bin\Debug\KineticEnergy.exe
+C:\Users\Ki\Google Drive\Programming Fundamentals\KineticEnergy\KineticEnergy\bin\Debug\KineticEnergy.pdb
+C:\Users\Ki\Google Drive\Programming Fundamentals\KineticEnergy\KineticEnergy\obj\Debug\KineticEnergy.exe
+C:\Users\Ki\Google Drive\Programming Fundamentals\KineticEnergy\KineticEnergy\obj\Debug\KineticEnergy.pdb
